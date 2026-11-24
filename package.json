@@ -1,0 +1,1 @@
+{"description":"One haiku about debugging, in the 5-7-5 syllable shape, written to /output/entry.txt.","engines":{"node":">=22.6"},"license":"MIT","name":"seventeen-syllables-debugging","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
